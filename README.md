@@ -3,4 +3,5 @@
 2. user created custom table.
 3. data visible to admin
 4. admin able to send email to that users.
-5. etc.
+5. cron schedular executed to send the queue mail.
+6. etc.
